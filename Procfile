@@ -1,1 +1,1 @@
-web: node ./channel/index.js
+web: node ./javascript/channel/index.js
