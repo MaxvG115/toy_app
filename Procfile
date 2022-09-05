@@ -1,1 +1,0 @@
-web: node ./javascript/channels/index.js
