@@ -1,6 +1,9 @@
 {
   "name": "toy-app",
   "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
