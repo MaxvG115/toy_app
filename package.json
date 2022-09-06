@@ -2,7 +2,7 @@
   "name": "toy-app",
   "private": true,
   "scripts": {
-    "start": "node app/javascript/packs/application.js"
+    "start": "node app/javascript/channels/index.js"
   },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
